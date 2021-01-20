@@ -9,11 +9,13 @@ This todolist is an application that allows the management of many different tas
 
 ## Usage
 
+1. Run npm install in order to install dependancies
 1. Open a terminal , go to the project directory and run "npm start"
 2. Open  http://localhost:3000 to view the page to your browser
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+For further informations : read contribute.md
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
